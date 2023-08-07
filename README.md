@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashBit
 - 👀 I’m interested in Quantitative Finance, A.I, Applied Math, DeepRL, CogSci, Etc.
-- 🌱 I’m currently learning : Statistical Theory
+- 🌱 I’m currently learning : How to sketch, paint, lucid dream
 - 💞️ I’m looking to collaborate on : N.A
 - 📫 How to reach me : N.A
 
